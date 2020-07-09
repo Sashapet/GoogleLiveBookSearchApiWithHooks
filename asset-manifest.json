@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GoogleLiveBookSearchApiWithHooks/static/css/main.2f6fde76.chunk.css",
+    "main.js": "/GoogleLiveBookSearchApiWithHooks/static/js/main.b7ecfc20.chunk.js",
+    "main.js.map": "/GoogleLiveBookSearchApiWithHooks/static/js/main.b7ecfc20.chunk.js.map",
+    "runtime-main.js": "/GoogleLiveBookSearchApiWithHooks/static/js/runtime-main.ee36a7ab.js",
+    "runtime-main.js.map": "/GoogleLiveBookSearchApiWithHooks/static/js/runtime-main.ee36a7ab.js.map",
+    "static/js/2.7c73810f.chunk.js": "/GoogleLiveBookSearchApiWithHooks/static/js/2.7c73810f.chunk.js",
+    "static/js/2.7c73810f.chunk.js.map": "/GoogleLiveBookSearchApiWithHooks/static/js/2.7c73810f.chunk.js.map",
+    "index.html": "/GoogleLiveBookSearchApiWithHooks/index.html",
+    "precache-manifest.0fe1cec590dcfe81cafad9f8c2c1ab33.js": "/GoogleLiveBookSearchApiWithHooks/precache-manifest.0fe1cec590dcfe81cafad9f8c2c1ab33.js",
+    "service-worker.js": "/GoogleLiveBookSearchApiWithHooks/service-worker.js",
+    "static/css/main.2f6fde76.chunk.css.map": "/GoogleLiveBookSearchApiWithHooks/static/css/main.2f6fde76.chunk.css.map",
+    "static/js/2.7c73810f.chunk.js.LICENSE.txt": "/GoogleLiveBookSearchApiWithHooks/static/js/2.7c73810f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee36a7ab.js",
+    "static/js/2.7c73810f.chunk.js",
+    "static/css/main.2f6fde76.chunk.css",
+    "static/js/main.b7ecfc20.chunk.js"
+  ]
+}

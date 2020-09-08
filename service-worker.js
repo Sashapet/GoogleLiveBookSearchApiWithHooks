@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GoogleLiveBookSearchApiWithHooks/precache-manifest.0fe1cec590dcfe81cafad9f8c2c1ab33.js"
+  "/GoogleLiveBookSearchApiWithHooks/precache-manifest.097f5a5ad3c459db3e1279418991e057.js"
 );
 
 self.addEventListener('message', (event) => {

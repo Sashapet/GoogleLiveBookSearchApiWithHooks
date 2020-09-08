@@ -29,7 +29,7 @@ const {data, loading} = useFetch(`https://www.googleapis.com/books/v1/volumes?q=
                   <h1 className="logo">GoogleBookDataBase</h1>
               </div>
               <div className="headerSearch">
-                <input className="search" type="text" ref={register} name="search" placeholder="Live Search" />
+                <input className="search" autocomplete="off" type="text" ref={register} name="search" placeholder="Live Search" />
               </div>
           </div>
           <div className="content">
